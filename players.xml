@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<persistentplayerdata>
+  <player platform="EOS" userid="00028a49b981474c8e84da6c455fb551" nativeplatform="Steam" nativeuserid="76561198288356532" playername="EzZy" lastlogin="2024-09-15 15:08:46" position="-1122,35,-445">
+    <acl platform="EOS" userid="000231ddad5542aebee3b4a033af08ee" />
+    <lpblock pos="-1203,40,-444" />
+    <bedroll pos="-1201,40,-448" />
+  </player>
+  <player platform="EOS" userid="000231ddad5542aebee3b4a033af08ee" nativeplatform="Steam" nativeuserid="76561198383126067" playername="Majo Brajself" lastlogin="2024-09-15 15:02:21" position="-1184,38,-450">
+    <acl platform="EOS" userid="00028a49b981474c8e84da6c455fb551" />
+    <bedroll pos="-1200,40,-450" />
+  </player>
+</persistentplayerdata>
